@@ -1,0 +1,10 @@
+بيانات البروفايل للنسخ واللصق في إعدادات GitHub (https://github.com/settings/profile):
+
+- Name: Sa-ly
+- Bio: Passionate developer focusing on Quranic, Islamic, and general tech projects.
+
+خطوات الاستخدام:
+1. قم بفك الضغط عن هذا الملف (github_profile_pack.zip).
+2. افتح صفحة الإعدادات https://github.com/settings/profile وقم برفع صورة avatar.png كصورة شخصية.
+3. أنشئ مستودعاً جديداً (Repository) على GitHub وسمّه بنفس اسم حسابك تماماً (sa-ly) واجعله Public.
+4. ارفع الملفات (README.md و avatar.png و banner.png) داخل هذا المستودع لتظهر الواجهة تلقائياً في بروفايلك.
