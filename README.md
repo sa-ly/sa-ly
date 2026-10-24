@@ -1,16 +1,15 @@
-## Hi there 👋
+# السلام عليكم ورحمة الله وبركاته 👋
 
-<!--
-**sa-ly/sa-ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="رابط_أيقونة_البروفايل_هنا" alt="Sa-ly Logo" width="150px" style="border-radius: 50%;">
+</p>
 
-Here are some ideas to get you started:
+### 🌙 عن الحساب:
+مرحباً بك في صفحي الشخصية على GitHub. أهتم بتطوير تطبيقات خادمة للقرآن الكريم، ومشاريع برمجية إسلامية وتقنية متنوعة.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ التقنيات والأدوات:
+* لغات البرمجة وتطوير التطبيقات الويب والموبايل.
+* مشاريع مفتوحة الصورس خالصة لوجه الله تعالى.
+
+---
+*«خيركم من تعلم القرآن وعلمه»*
